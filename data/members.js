@@ -1,4 +1,30 @@
 export default {
+  "LUNA 7기": {
+    "서승표": {
+      "description": "sspzoa.io",
+      "position": "Developer",
+      "class": "22기 해킹방어과",
+      "image": "서승표.jpeg"
+    },
+    "정준영": {
+      "description": "터프가이",
+      "position": "Project Manager",
+      "class": "22기 이비지니스과",
+      "image": "정준영.jpeg"
+    },
+    "전지훈": {
+      "description": "루나에 전지훈이",
+      "position": "Designer",
+      "class": "22기 디지털컨텐츠과",
+      "image": null
+    },
+    "미래의 당신..": {
+      "description": "???",
+      "position": "???",
+      "class": "23기 ???과",
+      "image": null
+    },
+  },
   "LUNA 6기": {
     "박성민": {
       "description": "(empty)",
@@ -48,41 +74,17 @@ export default {
       "class": "22기 해킹방어과",
       "image": "박시혁.png"
     },
-    "박시혁": {
-      "description": "루나에 엑슨이???",
-      "position": "Developer",
-      "class": "22기 해킹방어과",
-      "image": "박시혁.png"
-    },
-    "박정욱": {
-      "description": "08",
-      "position": "Developer",
-      "class": "22기 이비지니스과",
-      "image": "박정욱.png"
-    },
     "서정인": {
       "description": "최고다 서정잉",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
       "image": "서정인.png"
     },
-    "윤수아": {
-      "description": "LUNA{i_L0v3_Thi5_T0toRo}",
-      "position": "Developer",
-      "class": "22기 해킹방어과",
-      "image": "윤수아.png"
-    },
     "임지훈": {
       "description": "다들 항상 감사합니다",
       "position": "Developer",
       "class": "22기 해킹방어과",
       "image": "임지훈.png"
-    },
-    "황윤아": {
-      "description": "유나 루나 ( ⸍ɞ̴̶̷ ·̫ ɞ̴̶̷⸌ )♡",
-      "position": "Project Manager",
-      "class": "22기 이비지니스과",
-      "image": "황윤아.png"
     },
   },
   "LUNA 5기": {
