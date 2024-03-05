@@ -16,7 +16,7 @@ export default {
       "description": "루나에 전지훈이",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
-      "image": null
+      "image": "전지훈.jpeg"
     },
     "미래의 당신..": {
       "description": "???",
@@ -60,7 +60,7 @@ export default {
       "description": "루나엔 지윤이가 있지윤",
       "position": "Project Manager",
       "class": "22기 해킹방어과",
-      "image": "김지윤.png"
+      "image": "김지윤.jpeg"
     },
     "김형석": {
       "description": "누나보다 소중한 루나",

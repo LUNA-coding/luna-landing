@@ -7,7 +7,7 @@ export default {
                 "정준영",
             ],
             "date": "2024년 01월 20일 하루동안",
-            "image": null
+            "image": "2023-이음 프로젝트.jpeg"
         },
         "2023 한양대학교 고교 SID Audition": {
             "prize": "대상",
@@ -59,7 +59,7 @@ export default {
             "date": "2023년 08월 16일 하루동안",
             "image": null
         },
-        "2023 미래산업부문": {
+        "2023 전국 고등학교 동아리 소프트웨어 경진대회": {
             "prize": "장려상",
             "team": "보름",
             "members": [
@@ -69,7 +69,7 @@ export default {
                 "홍은표"
             ],
             "date": "2023년 07월 14일 하루동안",
-            "image": null
+            "image": "2023-전국 고등학교 동아리 소프트웨어 경진대회.png"
         },
         "2023 특성화고교생사장되기경진대회": {
             "prize": "동상",
@@ -99,7 +99,7 @@ export default {
                 "홍은표"
             ],
             "date": "2023년 04월 30일 하루동안",
-            "image": null
+            "image": "2023-JA COY.png"
         },
         "2023 직업계고 청년 창업아이디어 경진대회": {
             "prize": "최우수상",
