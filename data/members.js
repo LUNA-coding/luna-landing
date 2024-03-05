@@ -54,7 +54,7 @@ export default {
       "description": "국번없이 111",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
-      "image": "구상은.png"
+      "image": "구상은.jpeg"
     },
     "김지윤": {
       "description": "루나엔 지윤이가 있지윤",
@@ -78,7 +78,7 @@ export default {
       "description": "최고다 서정잉",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
-      "image": "서정인.png"
+      "image": "서정인.jpeg"
     },
     "임지훈": {
       "description": "다들 항상 감사합니다",
