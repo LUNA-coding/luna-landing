@@ -22,7 +22,7 @@ class Qna {
           <div id="a">
             <div id="mix">
               <div id="type">A</div>
-              <div id="text">${a}</div>
+              <div id="text">${a.replaceAll('\n', '<br/>')}</div>
             </div>
           </div>
         </div>
