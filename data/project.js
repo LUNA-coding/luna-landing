@@ -44,7 +44,7 @@ export default {
         },
         "우리:wuri": {
             "description": "우리:wuri는 종합 노인 복지 서비스 플랫폼 입니다.",
-            "image": "2023 우리.png",
+            "image": "ihateeng.png",
             "awards": [
             ]
         },
