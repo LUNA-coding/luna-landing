@@ -16,7 +16,7 @@ export default {
       "description": "Zㅣ존지훈",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
-      "image": "전지훈.jpeg"
+      "image": "전지훈.png"
     },
     "미래의 당신..": {
       "description": "???",
@@ -54,13 +54,13 @@ export default {
       "description": "국번없이 111",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
-      "image": "구상은.jpeg"
+      "image": "구상은.png"
     },
     "김지윤": {
       "description": "루나엔 지윤이가 있지윤",
       "position": "Project Manager",
       "class": "22기 해킹방어과",
-      "image": "김지윤.jpeg"
+      "image": "김지윤.png"
     },
     "김형석": {
       "description": "누나보다 소중한 루나",
@@ -78,7 +78,7 @@ export default {
       "description": "최고다 서정잉",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
-      "image": "서정인.jpeg"
+      "image": "서정인.png"
     },
     "임지훈": {
       "description": "다들 항상 감사합니다",
