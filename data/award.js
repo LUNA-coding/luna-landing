@@ -7,7 +7,7 @@ export default {
                 "정준영",
             ],
             "date": "2024년 01월 20일 하루동안",
-            "image": "2023-이음 프로젝트.jpg"
+            "image": "test.jpg"
         },
         "2023 한양대학교 고교 SID Audition": {
             "prize": "대상",
