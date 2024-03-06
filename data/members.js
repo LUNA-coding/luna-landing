@@ -4,13 +4,13 @@ export default {
       "description": "sspzoa.io",
       "position": "Developer",
       "class": "22기 해킹방어과",
-      "image": "서승표.jpeg"
+      "image": "서승표.png"
     },
     "정준영": {
       "description": "터프가이",
       "position": "Project Manager",
       "class": "22기 이비지니스과",
-      "image": "정준영.jpeg"
+      "image": "정준영.png"
     },
     "전지훈": {
       "description": "Zㅣ존지훈",
