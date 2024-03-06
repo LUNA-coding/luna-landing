@@ -7,7 +7,7 @@ export default {
                 "정준영",
             ],
             "date": "2024년 01월 20일 하루동안",
-            "image": "test.jpg"
+            "image": "2023-이음 프로젝트.jpg"
         },
         "2023 한양대학교 고교 SID Audition": {
             "prize": "대상",
@@ -57,7 +57,7 @@ export default {
                 "서정인"
             ],
             "date": "2023년 08월 16일 하루동안",
-            "image": "useeng.jpg"
+            "image": "2023-청소년메이커 경진대회.jpg"
         },
         "2023 전국 고등학교 동아리 소프트웨어 경진대회": {
             "prize": "장려상",
@@ -110,7 +110,7 @@ export default {
                 "김한비"
             ],
             "date": "2023년 04월 18일 하루동안",
-            "image": "whydowe.jpg"
+            "image": "2023-직업계고 청년 창업아이디어 경진대회.jpg"
         },
     },
     "2022": {
