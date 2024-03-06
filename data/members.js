@@ -13,7 +13,7 @@ export default {
       "image": "정준영.jpeg"
     },
     "전지훈": {
-      "description": "루나에 전지훈이",
+      "description": "Zㅣ존지훈",
       "position": "Designer",
       "class": "22기 디지털컨텐츠과",
       "image": "전지훈.jpeg"
