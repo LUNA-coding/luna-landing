@@ -1,7 +1,7 @@
 export default {
   "LUNA 7기": {
     "서승표": {
-      "description": "sspzoa.io",
+      "description": "루나 쌉조아",
       "position": "Developer",
       "class": "22기 해킹방어과",
       "image": "서승표.png"
